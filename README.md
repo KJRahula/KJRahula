@@ -28,13 +28,12 @@ I am a Computer Science student with a background in robotics and a passion for 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KJRahula&show_icons=true&theme=tokyonight&hide_border=true" alt="Karl's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KJRahula&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJRahula&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/kjrahula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karl Jaan Rahula" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kj-rahula)
